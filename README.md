@@ -1,6 +1,6 @@
 ## [TikTokModCloud](https://t.me/TikTokModCloud)
 <div align="center">
-   <a target="_blank" href="https://t.me/TikTokModCloud"><img src="https://github.com/TKJIKU/TikTokMod/blob/a6e205f9eb14ec4086348c2db92ec272dc09169f/%40TikTokModCloud.png" alt="TikTokMod" title="@TikTokModCloud"></div>   
+   <a target="_blank" href="https://t.me/TikTokModCloud"><img src="https://github.com/TKJIKU/TikTokMod/blob/bf8f6f90ac010c2dac680877a3295f5bfebd5881/TikTokMod.png" alt="TikTokMod" title="@TikTokModCloud"></div>   
 
 ---
 
