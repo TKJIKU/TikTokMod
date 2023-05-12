@@ -1,6 +1,6 @@
 ## [TikTokModCloud](https://t.me/TikTokModCloud)
 <div align="center">
-   <a target="_blank" href="https://t.me/TikTokModCloud"><img src="https://github.com/TKJIKU/TikTokMod/blob/7f25adecf2f0f1315ef0252fe8a16a0e076ace0c/%40TikTokModCloud.png" alt="TikTokMod" title="@TikTokModCloud"></div>   
+   <a target="_blank" href="https://t.me/TikTokModCloud"><img src="https://github.com/TKJIKU/TikTokMod/blob/7f25adecf2f0f1315ef0252fe8a16a0e076ace0c/@TikTokModCloud.png" alt="TikTokMod" title="@TikTokModCloud"></div>   
 
 ---
 
@@ -12,3 +12,11 @@ Due to the disastrously large size of TikTok I have to upload it in HTML
 To get mod just open the downloaded file in any browser!  
 由于 TikTok 的体积非常大，我必须以 HTML 格式上传它  
 要获得模组，只需在任何浏览器中打开下载的文件！  
+
+---
+
+### 如何下载TikTok模组和插件？  
+请转到[Releases去下载](https://github.com/TKJIKU/TikTokMod/releases)  
+注意请下载带🌏的完整 MultiLanguage 全球版本，支持中文及其他语言。  
+单独的64bit和32bit模组删除了其他语言，仅保留English和  
+使用插件选择地区并从插件打开TikTok  
