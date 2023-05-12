@@ -17,6 +17,9 @@ To get mod just open the downloaded file in any browser!
 
 ### 如何下载TikTok模组和插件？  
 请转到[Releases去下载](https://github.com/TKJIKU/TikTokMod/releases)  
+
 ❗注意请下载带🌏的完整 MultiLanguage 全球版本，支持中文及其他语言。  
+
 单独的64bit和32bit模组删除了其他语言，仅保留English和Русский  
+
 使用插件选择地区并从插件打开TikTok  
